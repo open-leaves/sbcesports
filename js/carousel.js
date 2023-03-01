@@ -1,6 +1,6 @@
-var events = ["Cricket","Football", "Volleyball"];
-var departments = ["cricket","football","volleyball"];
-var totalLayout = 3
+var events = ["Cricket","Football", "Volleyball", "Badminton", "Basketball", "Chess"];
+var departments = ["cricket","football","volleyball","Badminton","Basketball","Chess"];
+var totalLayout = 6
 
 function createSlide() {
     var e = document.getElementById("slidesDiv");
